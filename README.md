@@ -2,8 +2,8 @@
 
 This project is dedicated to the development of a DIY quadcopter and its remote controller. The hardware, firmware, and software have been developed from scratch.
 
-![alt text](images/bqcopter.png)
-![alt text](images/transmitter.png)
+![alt text](images/bqcopter.jpg)
+![alt text](images/transmitter.jpg)
 
 ## Architecture
 
@@ -25,7 +25,7 @@ ESC: Chinese ESC with SimonK firmware
 Motors: SunnySky X2212-13 980KV
 Frame: Chinese noname one
 
-![alt text](images/board.png)
+![alt text](images/board.jpg)
 
 ### Controller
 
