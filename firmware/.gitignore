@@ -1,0 +1,8 @@
+*.htm
+*.map
+*.lst
+*.bak
+*.dep
+*.uvgui.*
+*.uvopt
+/obj/*
