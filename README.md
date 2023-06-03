@@ -5,6 +5,10 @@ This project is dedicated to the development of a DIY quadcopter and its remote 
 ![alt text](images/bqcopter.jpg)
 ![alt text](images/transmitter.jpg)
 
+## Results
+
+[![](images/youtube_playlist_thumbnails.jpg)](https://www.youtube.com/playlist?list=PLp3uHHNT_1wAUe_-DQOpaPoW9ktin12r7)
+
 ## Architecture
 
 The quadcopter and the controller are both equipped with 2.4GHz radio transceivers. The controller consists of two parts:
