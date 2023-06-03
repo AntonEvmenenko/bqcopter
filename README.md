@@ -1,11 +1,11 @@
-# Big Quadcopter
+# Big DIY Quadcopter
 
 This project is dedicated to the development of a DIY quadcopter and its remote controller. The hardware, firmware, and software have been developed from scratch.
 
 ![alt text](images/bqcopter.jpg)
 ![alt text](images/transmitter.jpg)
 
-## Results
+## Project logs on YouTube
 
 [![](images/youtube_playlist_thumbnails.jpg)](https://www.youtube.com/playlist?list=PLp3uHHNT_1wAUe_-DQOpaPoW9ktin12r7)
 
