@@ -41,7 +41,7 @@ The quadcopter and the controller are both equipped with 2.4GHz radio transceive
 
 ## Firmware  
 
-The firmware was developed from scratch in C++, except for the IMU code, which was taken from [here](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/)
+The firmware was developed from scratch in C, except for the IMU code, which was taken from [here](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/)
 
 ## Software
 
